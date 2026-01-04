@@ -98,10 +98,5 @@ The testbench converts between `real` and bit patterns using `$realtobits` / `$b
 
 ---
 
-## Next ideas (optional)
 
-If you want to extend the project:
-
-- Add a self-checking testbench that compares against `1.0/$sqrt(x)` and reports absolute/relative error
-- Sweep a range of random inputs and log error statistics
 - Implement a fixed-point or LUT-based inverse sqrt that *is* synthesizable
