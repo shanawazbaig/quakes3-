@@ -25,7 +25,7 @@ The design in this repo performs:
 $$y_{n+1} = y_n \cdot \left(1.5 - 0.5x\,y_n^2\right)$$
 
 Two iterations typically produce a very accurate result for many values of $x$.
-
+ this one high level step is why this algorithm cannot be synthesized .
 ---
 
 ## Files
